@@ -21,6 +21,7 @@
         <img src="http://img.shields.io/badge/swift-3.1-brightgreen.svg" alt="Swift 3.1">
     </a>
 </center>
+<pre>
 首次建立heroku
 heroku login
 git init
@@ -53,3 +54,7 @@ heroku config -s | grep HEROKU_POSTGRESQL
 
 vapor xcode -y
 本想多添加点功能，比如图片上传啥的，结果发现七牛不行，就止步了，只能向大佬低头。有兴趣的同学双击666
+<a href="http://www.jianshu.com/p/84a099101272">
+本章教程http://www.jianshu.com/p/84a099101272
+</a>
+</pre>
